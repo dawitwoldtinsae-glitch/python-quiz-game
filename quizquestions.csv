@@ -1,0 +1,421 @@
+﻿level,category,question,option 1,option 2,option 3,option 4,answer
+easy,programming,Python uses indentation to define code blocks,TRUE,FALSE,,,TRUE
+easy,programming,Variables in Python need explicit type declaration,TRUE,FALSE,,,FALSE
+easy,programming,Python lists can contain elements of different types,TRUE,FALSE,,,TRUE
+easy,programming,The 'def' keyword is used to define functions in Python,TRUE,FALSE,,,TRUE
+easy,programming,Python supports multiple inheritance,TRUE,FALSE,,,TRUE
+easy,programming,Strings in Python are immutable,TRUE,FALSE,,,TRUE
+easy,programming,Python has a 'switch' statement,TRUE,FALSE,,,FALSE
+easy,programming,The 'print()' function outputs data to the console,TRUE,FALSE,,,TRUE
+easy,programming,Python dictionaries store data as key-value pairs,TRUE,FALSE,,,TRUE
+easy,programming,Python allows negative indexing in lists,TRUE,FALSE,,,TRUE
+easy,programming,Tuples in Python can be modified after creation,TRUE,FALSE,,,FALSE
+easy,programming,Python uses '#' for single-line comments,TRUE,FALSE,,,TRUE
+easy,programming,The 'while' loop runs until a condition is False,TRUE,FALSE,,,TRUE
+easy,programming,Python supports object-oriented programming,TRUE,FALSE,,,TRUE
+easy,programming,The 'break' statement exits a loop immediately,TRUE,FALSE,,,TRUE
+easy,programming,Python's 'and' operator returns True if both operands are True,TRUE,FALSE,,,TRUE
+easy,programming,Lists in Python are immutable,TRUE,FALSE,,,FALSE
+easy,programming,The 'continue' statement skips the current loop iteration,TRUE,FALSE,,,TRUE
+easy,programming,Python uses 'elif' for else-if conditions,TRUE,FALSE,,,TRUE
+easy,programming,Functions in Python can return multiple values,TRUE,FALSE,,,TRUE
+easy,programming,Python supports lambda (anonymous) functions,TRUE,FALSE,,,TRUE
+easy,programming,The 'in' keyword can check membership in lists or strings,TRUE,FALSE,,,TRUE
+easy,programming,Python integers are of unlimited size,TRUE,FALSE,,,TRUE
+easy,programming,Python uses 'for' loops only with numeric ranges,TRUE,FALSE,,,FALSE
+easy,programming,The 'import' statement is used to include modules,TRUE,FALSE,,,TRUE
+easy,programming,Python's 'is' operator compares object identity,TRUE,FALSE,,,TRUE
+easy,programming,The 'not' operator returns the opposite Boolean value,TRUE,FALSE,,,TRUE
+easy,programming,Python supports list comprehensions,TRUE,FALSE,,,TRUE
+easy,programming,The 'pass' statement does nothing,TRUE,FALSE,,,TRUE
+easy,programming,Python variable names can start with numbers,TRUE,FALSE,,,FALSE
+easy,programming,Python allows multi-line strings with triple quotes,TRUE,FALSE,,,TRUE
+easy,programming,Python automatically frees memory with garbage collection,TRUE,FALSE,,,TRUE
+easy,programming,Python functions can have default parameter values,TRUE,FALSE,,,TRUE
+easy,programming,Python does not support recursion,TRUE,FALSE,,,FALSE
+easy,programming,The 'del' statement can delete a variable,TRUE,FALSE,,,TRUE
+easy,programming,Python uses '==' to check equality,TRUE,FALSE,,,TRUE
+easy,programming,Python has built-in support for complex numbers,TRUE,FALSE,,,TRUE
+easy,programming,Python code must always be enclosed in a class,TRUE,FALSE,,,FALSE
+easy,programming,The 'round()' function rounds numbers to a specified precision,TRUE,FALSE,,,TRUE
+easy,programming,Python dictionaries maintain insertion order,TRUE,FALSE,,,TRUE
+easy,programming,The 'set' data type allows duplicate elements,TRUE,FALSE,,,FALSE
+easy,programming,Python's 'try' block handles exceptions,TRUE,FALSE,,,TRUE
+easy,programming,The 'finally' block runs even if there is an exception,TRUE,FALSE,,,TRUE
+easy,programming,Python uses 'with' statement for context management,TRUE,FALSE,,,TRUE
+easy,programming,The 'float' type can store decimal numbers,TRUE,FALSE,,,TRUE
+easy,programming,Python does not support bitwise operators,TRUE,FALSE,,,FALSE
+easy,programming,The 'max()' function returns the largest element,TRUE,FALSE,,,TRUE
+easy,programming,Python's 'min()' function returns the smallest element,TRUE,FALSE,,,TRUE
+easy,programming,Python has a 'do-while' loop,TRUE,FALSE,,,FALSE
+easy,programming,The 'len()' function returns the number of items in a container,TRUE,FALSE,,,TRUE
+easy,programming,Python sets are unordered collections,TRUE,FALSE,,,TRUE
+easy,programming,Python's 'type()' function shows the data type,TRUE,FALSE,,,TRUE
+easy,programming,Python strings can be concatenated using '+',TRUE,FALSE,,,TRUE
+easy,programming,The 'input()' function reads user input as a string,TRUE,FALSE,,,TRUE
+easy,programming,Python allows operator overloading,TRUE,FALSE,,,TRUE
+easy,programming,The 'repr()' function gives a string representation of an object,TRUE,FALSE,,,TRUE
+easy,programming,Python uses '//' for floor division,TRUE,FALSE,,,TRUE
+easy,programming,Python uses '**' for exponentiation,TRUE,FALSE,,,TRUE
+easy,programming,Python allows multiple assignments in a single line,TRUE,FALSE,,,TRUE
+easy,programming,The 'strip()' method removes whitespace from both ends of a string,TRUE,FALSE,,,TRUE
+easy,programming,Python does not support string slicing,TRUE,FALSE,,,FALSE
+easy,programming,The 'ord()' function returns the Unicode code of a character,TRUE,FALSE,,,TRUE
+easy,programming,The 'chr()' function converts Unicode code to a character,TRUE,FALSE,,,TRUE
+easy,programming,Python supports generators using 'yield',TRUE,FALSE,,,TRUE
+easy,programming,Python lists have a 'sort()' method,TRUE,FALSE,,,TRUE
+easy,programming,The 'append()' method adds an item to the end of a list,TRUE,FALSE,,,TRUE
+easy,programming,Python tuples are defined using parentheses,TRUE,FALSE,,,TRUE
+easy,programming,The 'count()' method returns the frequency of an element in a list,TRUE,FALSE,,,TRUE
+easy,programming,Python sets automatically remove duplicate elements,TRUE,FALSE,,,TRUE
+easy,programming,Python dictionaries allow duplicate keys,TRUE,FALSE,,,FALSE
+easy,astronomy,The Sun is a star,TRUE,FALSE,,,TRUE
+easy,astronomy,Earth is the largest planet in the solar system,TRUE,FALSE,,,FALSE
+easy,astronomy,The Moon orbits the Earth,TRUE,FALSE,,,TRUE
+easy,astronomy,Jupiter has rings around it,TRUE,FALSE,,,TRUE
+easy,astronomy,The Milky Way is a galaxy,TRUE,FALSE,,,TRUE
+easy,astronomy,Mars is known as the Red Planet,TRUE,FALSE,,,TRUE
+easy,astronomy,Venus is the hottest planet in the solar system,TRUE,FALSE,,,TRUE
+easy,astronomy,Saturn is made mostly of gas,TRUE,FALSE,,,TRUE
+easy,astronomy,Mercury is closest to the Sun,TRUE,FALSE,,,TRUE
+easy,astronomy,Neptune is the farthest planet from the Sun,TRUE,FALSE,,,TRUE
+easy,astronomy,Uranus rotates on its side,TRUE,FALSE,,,TRUE
+easy,astronomy,Pluto is considered a dwarf planet,TRUE,FALSE,,,TRUE
+easy,astronomy,The Sun is made of solid rock,TRUE,FALSE,,,FALSE
+easy,astronomy,The Earth is the only planet with liquid water on its surface,TRUE,FALSE,,,TRUE
+easy,astronomy,The Moon produces its own light,TRUE,FALSE,,,FALSE
+easy,astronomy,A light-year measures time,TRUE,FALSE,,,FALSE
+easy,astronomy,The Sun will eventually become a black hole,TRUE,FALSE,,,FALSE
+easy,astronomy,Stars are mostly made of hydrogen and helium,TRUE,FALSE,,,TRUE
+easy,astronomy,Black holes have gravity so strong that nothing can escape it,TRUE,FALSE,,,TRUE
+easy,astronomy,Comets are made of ice and dust,TRUE,FALSE,,,TRUE
+easy,astronomy,The Earth is the third planet from the Sun,TRUE,FALSE,,,TRUE
+easy,astronomy,Mars has two moons,TRUE,FALSE,,,TRUE
+easy,astronomy,Venus is the closest planet to Earth,TRUE,FALSE,,,FALSE
+easy,astronomy,The Sun is at the center of our solar system,TRUE,FALSE,,,TRUE
+easy,astronomy,Asteroids are larger than planets,TRUE,FALSE,,,FALSE
+easy,astronomy,The Moon has an atmosphere,TRUE,FALSE,,,FALSE
+easy,astronomy,Earth takes 365 days to orbit the Sun,TRUE,FALSE,,,TRUE
+easy,astronomy,Saturn is the only planet with rings,TRUE,FALSE,,,FALSE
+easy,astronomy,The Milky Way contains billions of stars,TRUE,FALSE,,,TRUE
+easy,astronomy,The Moon causes tides on Earth,TRUE,FALSE,,,TRUE
+easy,astronomy,The Sun is a medium-sized star,TRUE,FALSE,,,TRUE
+easy,astronomy,Mercury has no atmosphere,TRUE,FALSE,,,TRUE
+easy,astronomy,The North Star is also called Polaris,TRUE,FALSE,,,TRUE
+easy,astronomy,Shooting stars are meteors entering the Earth’s atmosphere,TRUE,FALSE,,,TRUE
+easy,astronomy,Jupiter is the largest planet in the solar system,TRUE,FALSE,,,TRUE
+easy,astronomy,Venus has more gravity than Earth,TRUE,FALSE,,,FALSE
+easy,astronomy,Uranus is blue because of methane in its atmosphere,TRUE,FALSE,,,TRUE
+easy,astronomy,The Sun is part of the Milky Way galaxy,TRUE,FALSE,,,TRUE
+easy,astronomy,Black holes can be seen with the naked eye,TRUE,FALSE,,,FALSE
+easy,astronomy,The Moon is slowly moving away from Earth,TRUE,FALSE,,,TRUE
+easy,astronomy,Mars has liquid water on its surface today,TRUE,FALSE,,,FALSE
+easy,astronomy,Comets have tails that always point away from the Sun,TRUE,FALSE,,,TRUE
+easy,astronomy,The Sun is the closest star to Earth,TRUE,FALSE,,,TRUE
+easy,astronomy,Saturn is known for having the most spectacular rings,TRUE,FALSE,,,TRUE
+easy,astronomy,Mercury is larger than Venus,TRUE,FALSE,,,FALSE
+easy,astronomy,Jupiter has at least 79 moons,TRUE,FALSE,,,TRUE
+easy,astronomy,A supernova is the explosion of a star,TRUE,FALSE,,,TRUE
+easy,astronomy,The Andromeda Galaxy is moving away from the Milky Way,TRUE,FALSE,,,FALSE
+easy,astronomy,Light from the Sun takes about 8 minutes to reach Earth,TRUE,FALSE,,,TRUE
+easy,astronomy,The Moon has phases because it orbits the Sun,TRUE,FALSE,,,FALSE
+easy,astronomy,Venus rotates in the opposite direction to most planets,TRUE,FALSE,,,TRUE
+easy,astronomy,Earth has one moon,TRUE,FALSE,,,TRUE
+easy,astronomy,Pluto has been reclassified as a planet again,TRUE,FALSE,,,FALSE
+easy,astronomy,Neptune has a storm called the Great Dark Spot,TRUE,FALSE,,,TRUE
+easy,astronomy,The Sun has a solid surface,TRUE,FALSE,,,FALSE
+easy,astronomy,Stars can die and form black holes,TRUE,FALSE,,,TRUE
+easy,astronomy,The Milky Way is the only galaxy in the universe,TRUE,FALSE,,,FALSE
+easy,astronomy,Meteoroids are smaller than asteroids,TRUE,FALSE,,,TRUE
+easy,astronomy,Saturn is made mostly of gas and ice,TRUE,FALSE,,,TRUE
+easy,astronomy,Venus has clouds made of sulfuric acid,TRUE,FALSE,,,TRUE
+easy,astronomy,The Sun is over 4 billion years old,TRUE,FALSE,,,TRUE
+easy,astronomy,The Moon has volcanoes,TRUE,FALSE,,,FALSE
+easy,astronomy,Mercury has extreme temperature variations,TRUE,FALSE,,,TRUE
+easy,astronomy,Jupiter emits more energy than it receives from the Sun,TRUE,FALSE,,,TRUE
+easy,astronomy,Pluto has an atmosphere,TRUE,FALSE,,,TRUE
+easy,astronomy,The Sun will eventually become a white dwarf,TRUE,FALSE,,,TRUE
+easy,astronomy,Black holes can shrink over time,TRUE,FALSE,,,TRUE
+easy,astronomy,Uranus has faint rings,TRUE,FALSE,,,TRUE
+easy,astronomy,The Earth’s magnetic field protects it from solar radiation,TRUE,FALSE,,,TRUE
+easy,astronomy,The largest volcano in the solar system is on Mars,TRUE,FALSE,,,TRUE
+medium,astronomy,What is the largest planet in our solar system?,Earth,Jupiter,Saturn,Neptune,Jupiter
+medium,astronomy,Which planet is known as the “Morning Star” or “Evening Star”?,Venus,Mars,Mars,Jupiter,Venus
+medium,astronomy,What is the main component of the Sun?,Oxygen,Hydrogen,Helium,Carbon,Hydrogen
+medium,astronomy,Which planet has the fastest rotation in the solar system?,Earth,Jupiter,Neptune,Mercury,Jupiter
+medium,astronomy,Which dwarf planet is located in the Kuiper Belt?,Pluto,Ceres,Eris,Haumea,Pluto
+medium,astronomy,What is the distance from Earth to the Sun called?,Light-year,Astronomical Unit,Parsecs,Kilometer,Astronomical Unit
+medium,astronomy,Which planet has the Great Red Spot?,Mars,Jupiter,Saturn,Venus,Jupiter
+medium,astronomy,Which moon is the largest in the solar system?,Titan,Ganymede,Callisto,Europa,Ganymede
+medium,astronomy,Which planet is tilted almost 90 degrees on its axis?,Saturn,Uranus,Neptune,Mars,Uranus
+medium,astronomy,Which planet has the most moons?,Earth,Saturn,Uranus,Uranus,Jupiter
+medium,astronomy,What is the name of our galaxy?,Andromeda,Milky Way,Triangulum,Whirlpool,Milky Way
+medium,astronomy,What is the primary reason Pluto was reclassified as a dwarf planet?,It is too small,It hasn’t cleared its orbit,It is made of ice,It rotates slowly,It hasn’t cleared its orbit
+medium,astronomy,What type of galaxy is the Milky Way?,Elliptical,Spiral,Irregular,Lenticular,Spiral
+medium,astronomy,Which planet is sometimes called Earth’s “sister planet”?,Mars,Venus,Mercury,Jupiter,Venus
+medium,astronomy,What causes a solar eclipse?,Moon passes between Earth and Sun,Earth passes between Sun and Moon,Sun passes behind Earth,Mars blocks the Sun,Moon passes between Earth and Sun
+medium,astronomy,Which planet has the coldest atmosphere?,Neptune,Uranus,Saturn,Mercury,Uranus
+medium,astronomy,What is the main cause of tides on Earth?,Sun’s gravity,Moon’s gravity,Earth’s rotation,Jupiter’s gravity,Moon’s gravity
+medium,astronomy,What is a neutron star?,Small planet,Collapsed star with neutrons,Large comet,Black hole precursor,Collapsed star with neutrons
+medium,astronomy,Which planet has a very thin atmosphere mostly made of carbon dioxide?,Mars,Mercury,Venus,Jupiter,Mars
+medium,astronomy,What is the unit used to measure stellar distances?,Kilometer,Light-year,Parsecs,Astronomical Unit,Light-year
+medium,astronomy,Which planet has a large storm called the Great Dark Spot?,Neptune,Uranus,Jupiter,Saturn,Neptune
+medium,astronomy,What is the main difference between asteroids and meteoroids?,Asteroids are larger,Meteoroids are bigger,Asteroids are icy,Meteoroids orbit Jupiter,Asteroids are larger
+medium,astronomy,Which planet is covered with dense clouds of sulfuric acid?,Venus,Mercury,Mars,Saturn,Venus
+medium,astronomy,Which is the closest star system to Earth?,Proxima Centauri,Alpha Centauri,Sirius,Betelgeuse,Alpha Centauri
+medium,astronomy,What type of celestial body is Halley’s Comet?,Asteroid,Comet,Meteor,Moon,Comet
+medium,astronomy,Which planet has a ring system that is visible from Earth using a telescope?,Saturn,Jupiter,Uranus,Neptune,Saturn
+medium,astronomy,What is the name of the first artificial satellite launched into space?,Apollo 11,Sputnik 1,Voyager 1,Hubble,Sputnik 1
+medium,astronomy,Which planet has the shortest day?,Earth,Jupiter,Saturn,Mars,Jupiter
+medium,astronomy,What is the temperature of the Sun’s core?,"5,000 K","15,000 K",15 million K,1 million K,15 million K
+medium,astronomy,Which planet is known for its prominent ring system?,Neptune,Saturn,Uranus,Jupiter,Saturn
+medium,astronomy,Which planet is often called the “Red Planet”?,Venus,Mars,Mercury,Jupiter,Mars
+medium,astronomy,What is a supernova?,Formation of a planet,Explosion of a star,Black hole precursor,Comet passing,Explosion of a star
+medium,astronomy,Which planet has methane in its atmosphere giving it a blue color?,Uranus,Neptune,Saturn,Jupiter,Neptune
+medium,astronomy,Which object is considered the smallest planet in the solar system?,Mercury,Mars,Venus,Earth,Mercury
+medium,astronomy,Which moon is known for its icy surface and possible subsurface ocean?,Europa,Titan,Ganymede,Io,Europa
+medium,astronomy,What is the main energy source for the Sun?,Chemical reactions,Nuclear fusion,Nuclear fission,Gravitational energy,Nuclear fusion
+medium,astronomy,Which planet has the longest day?,Venus,Mercury,Mars,Jupiter,Venus
+medium,astronomy,What is the Kuiper Belt?,Asteroid belt between Mars and Jupiter,Region beyond Neptune with icy bodies,The Sun’s atmosphere,A type of galaxy,Region beyond Neptune with icy bodies
+medium,astronomy,Which planet has the largest volcano in the solar system?,Earth,Mars,Venus,Mercury,Mars
+medium,astronomy,Which star is the brightest in the night sky?,Betelgeuse,Sirius,Vega,Polaris,Sirius
+medium,astronomy,Which gas is most abundant in the Sun?,Hydrogen,Oxygen,Nitrogen,Carbon dioxide,Hydrogen
+medium,astronomy,Which planet has a retrograde rotation?,Venus,Mars,Mercury,Jupiter,Venus
+medium,astronomy,What is the shape of most galaxies?,Spherical,Spiral,Cubic,Flat disc,Spiral
+medium,astronomy,What are shooting stars?,Meteors burning in Earth’s atmosphere,Asteroids hitting Earth,Comets passing,Planetary debris,Meteors burning in Earth’s atmosphere
+medium,astronomy,Which is the smallest moon of Jupiter?,Amalthea,Europa,Io,Ganymede,Amalthea
+medium,astronomy,What is the life cycle stage after a red giant for low-mass stars?,Supernova,White dwarf,Neutron star,Black hole,White dwarf
+medium,astronomy,Which planet has the largest magnetic field?,Earth,Jupiter,Saturn,Neptune,Jupiter
+medium,astronomy,What is the Oort Cloud?,Cloud of gas around the Sun,Distant spherical shell of icy bodies surrounding the solar system,Jupiter’s atmosphere,Neptune’s rings,Distant spherical shell of icy bodies surrounding the solar system
+medium,astronomy,What is the primary component of gas giant atmospheres?,Hydrogen and helium,Oxygen and nitrogen,Carbon dioxide,Methane only,Hydrogen and helium
+medium,astronomy,What causes the auroras on Earth?,Earthquakes,Solar wind interacting with Earth’s magnetic field,Moonlight,Volcanic eruptions,Solar wind interacting with Earth’s magnetic field
+medium,astronomy,What is the visible light spectrum emitted by stars called?,Absorption spectrum,Emission spectrum,Reflection spectrum,Radio waves,Emission spectrum
+medium,astronomy,Which planet has a core that is mostly metallic hydrogen?,Earth,Jupiter,Venus,Mars,Jupiter
+medium,astronomy,Which moon has a thick nitrogen atmosphere?,Titan,Europa,Io,Ganymede,Titan
+medium,astronomy,What is the name of the galaxy closest to the Milky Way?,Andromeda,Triangulum,Large Magellanic Cloud,Whirlpool,Andromeda
+medium,astronomy,Which planet has polar ice caps made of water and carbon dioxide?,Earth,Mars,Mercury,Venus,Mars
+medium,astronomy,Which comet is visible from Earth approximately every 76 years?,Halley’s Comet,Hale-Bopp,Swift-Tuttle,Encke,Halley’s Comet
+medium,astronomy,Which planet’s surface pressure is higher than Earth’s by 90 times?,Venus,Mercury,Mars,Jupiter,Venus
+medium,astronomy,What is the term for a planet outside our solar system?,Dwarf planet,Exoplanet,Moon,Asteroid,Exoplanet
+medium,astronomy,What is the primary difference between a meteor and a meteorite?,"Meteor hits Earth’s surface, meteorite burns in atmosphere","Meteor burns in atmosphere, meteorite hits Earth’s surface",No difference,C. No difference,"Meteor burns in atmosphere, meteorite hits Earth’s surface"
+medium,astronomy,What is the name of the largest canyon in the solar system?,Valles Marineris,Grand Canyon,Mariana Trench,Copernicus,Valles Marineris
+medium,astronomy,Which planet is sometimes called the “Ice Giant”?,Neptune,Uranus,Neptune,Uranus,Uranus
+medium,astronomy,What is the most common type of star in the Milky Way?,Red dwarf,Yellow dwarf,Blue giant,White dwarf,Red dwarf
+medium,astronomy,Which moon of Saturn has lakes of liquid methane?,Titan,Enceladus,Mimas,Rhea,Titan
+medium,astronomy,What is the primary difference between a star and a planet?,"Stars emit light via nuclear fusion, planets do not",Planets are hotter than stars,Stars are smaller than planets,Planets can undergo fusion,"Stars emit light via nuclear fusion, planets do not"
+medium,astronomy,Which type of star will eventually form a black hole?,Low-mass star,Massive star,White dwarf,Red dwarf,Massive star
+medium,astronomy,Which planet rotates fastest on its axis?,Mercury,Jupiter,Saturn,Saturn,Jupiter
+medium,astronomy,"Which planet has the largest volcano, Olympus Mons?",Mars,Venus,Earth,Mercury,Mars
+medium,astronomy,What is the apparent brightness of a star as seen from Earth called?,Absolute magnitude,Apparent magnitude,Luminosity,Flux,Apparent magnitude
+medium,astronomy,Which star is closest to the Sun?,Proxima Centauri,Alpha Centauri A,Sirius,Betelgeuse,Proxima Centauri
+medium,astronomy,Which type of galaxy has no defined shape?,Elliptical,Spiral,Irregular,Lenticular,Irregular
+medium,programming,Which of the following is a mutable data type in Python,tuple,list,string,frozenset,list
+medium,programming,"What is the output of len([1, 2, [3, 4]])",2,3,4,5,3
+medium,programming,Which keyword is used to define a function in Python,func,def,define,function,def
+medium,programming,What is the result of 3 * 1 ** 3,0,1,3,9,3
+medium,programming,Which method adds an element to the end of a list,add(),append(),insert(),extend(),append()
+medium,programming,Which operator is used for integer division in Python,/,// ,%,**,// 
+medium,programming,What is the output of type({}),dict,set,list,tuple,dict
+medium,programming,How do you start a comment in Python,//,#,<!--,/*,#
+medium,programming,What is the output of bool([]),TRUE,FALSE,None,Error,FALSE
+medium,programming,Which function converts a string to a float,str(),float(),int(),double(),float()
+medium,programming,Which of these is not a valid Python variable name,_var,var1,1var,var_1,1var
+medium,programming,Which statement is used to stop a loop,continue,break,stop,exit,break
+medium,programming,What is the output of bool(0),TRUE,FALSE,None,0,FALSE
+medium,programming,Which method returns a copy of a string with all uppercase letters,uppercase(),upper(),toUpper(),capitalize(),upper()
+medium,programming,Which data type is returned by range(5) in Python 3,list,range,tuple,iterator,range
+medium,programming,Which of the following will raise an error,"int(""10"")","float(""10.5"")","int(""ten"")",str(10),"int(""ten"")"
+medium,programming,What is the output of Python[-1],P,n,o,Error,n
+medium,programming,Which of the following statements correctly opens a file for reading,"open(""file.txt"", ""w"")","open(""file.txt"", ""r"")","open(""file.txt"", ""a"")","open(""file.txt"", ""x"")","open(""file.txt"", ""r"")"
+medium,programming,What does the pass statement do,Stops a loop,Skips an iteration,Does nothing,Raises an exception,Does nothing
+medium,programming,Which Python keyword is used for exception handling,catch,try,handle,except,try
+medium,programming,What is the output of 3 * 'ab',ab3',abab',ababab',Error,ababab'
+medium,programming,Which built-in function returns the largest item in an iterable,min(),max(),largest(),top(),max()
+medium,programming,Which of the following is not a Python core data type,list,dict,class,tuple,class
+medium,programming,What is the output of 5 % 2,0,1,2,2.5,1
+medium,programming,Which method removes the last item from a list,delete(),remove(),pop(),discard(),pop()
+medium,programming,How do you create a set in Python,"{1, 2, 3}","[1, 2, 3]","(1, 2, 3)","set([1, 2, 3])","{1, 2, 3}"
+medium,programming,Which Python keyword is used to create a class,function,def,class,object,class
+medium,programming,"What is the output of type((1,))",tuple,list,int,dict,tuple
+medium,programming,Which method removes all items from a list,clear(),remove(),pop(),delete(),clear()
+medium,programming,Which of the following operators has the highest precedence in Python,+,*,**,//,**
+medium,programming,How can you get the ASCII value of a character,ascii(),ord(),char(),chr(),ord()
+medium,programming,Which keyword is used to define an anonymous function in Python,func,lambda,def,anon,lambda
+medium,programming,"What is the output of list(""abc"")",abc',"['a', 'b', 'c']",['abc'],"('a', 'b', 'c')","['a', 'b', 'c']"
+medium,programming,"What is the output of bool(""False"")",TRUE,FALSE,0,Error,TRUE
+medium,programming,Which method returns a string in lowercase,down(),lower(),min(),min(),lower()
+medium,programming,How do you create a dictionary in Python,{},[],(),dict(),{}
+medium,programming,Which of the following is not a valid Python comparison operator,==,!=,>=,<=,!=
+medium,programming,Which keyword is used to inherit a class,inherit,extends,super,class,class
+medium,programming,What is the output of 3 / 2 in Python 3,1,1.5,1,2,1.5
+medium,programming,Which of these functions returns the number of items in a sequence,count(),length(),len(),size(),len()
+medium,programming,How do you comment multiple lines in Python,# ... for each line,'' ... ''',//,/* ... */,'' ... '''
+medium,programming,Which function converts a value to a string,str(),string(),int(),float(),str()
+medium,programming,Which of these is immutable,list,dict,tuple,set,tuple
+medium,programming,How do you access the first element of a list a,a[0],a[1],a[-1],a[first],a[0]
+medium,programming,Which method returns the index of the first occurrence of a value in a list,find(),index(),search(),locate(),index()
+medium,programming,Which function evaluates a string as a Python expression,eval(),exec(),compile(),input(),eval()
+medium,programming,Which is the correct syntax to create a set,"{1, 2, 3}","[1, 2, 3]","(1, 2, 3)","{1:2, 3:4}","{1, 2, 3}"
+medium,programming,How do you handle exceptions in Python,try/except,catch/handle,handle/catch,error/except,try/except
+medium,programming,"What is the output of 'hello'.replace('h','y')",yello',hello',yhllo',yelloh',yello'
+medium,programming,Which operator is used for exponentiation in Python,^,**,*,// ,**
+medium,programming,How do you add an element at a specific position in a list,append(),insert(),extend(),remove(),insert()
+medium,programming,Which of the following is used to iterate over a sequence,for,while,if,range,for
+medium,programming,What is the output of bool(None),TRUE,FALSE,None,Error,FALSE
+medium,programming,Which function returns a sorted list from an iterable,sorted(),sort(),min(),max(),sorted()
+medium,programming,How do you remove an item from a dictionary by key,del dict[key],dict.pop(key),dict.popitem(),dict.clear(),dict.pop(key)
+medium,programming,Which built-in function returns the type of an object,type(),id(),repr(),format(),type()
+medium,programming,What is the output of 'Python'.find('t'),2,1,3,-1,2
+medium,programming,How do you copy a list in Python,list.copy(),list(),list(a),copy(),list.copy()
+medium,programming,Which keyword is used to create an iterator,yield,iter,next,generator,iter
+medium,programming,Which method returns a string with leading and trailing whitespace removed,strip(),lstrip(),rstrip(),strip(),strip()
+medium,programming,"What is the output of all([True, True, False])",FALSE,TRUE,None,Error,FALSE
+medium,programming,"What is the output of any([False, False, True])",TRUE,FALSE,TRUE,TRUE,TRUE
+medium,programming,Which function returns the length of a dictionary,len(),size(),count(),length(),len()
+medium,programming,How do you merge two dictionaries in Python 3.9+,dict1.update(dict2),dict1 | dict2,dict.update(dict2),"merge(dict1, dict2)",dict1 | dict2
+medium,programming,Which of these methods adds multiple items to a list,append(),extend(),add(),push(),extend()
+medium,programming,"What is the output of sorted([3,1,2], reverse=True)","[1,2,3]","[3,2,1]","[2,3,1]","[3,1,2]","[3,2,1]"
+medium,programming,Which module is used for regular expressions in Python,math,re,sys,regex,re
+medium,programming,How do you create a byte object from a string,"bytes(""abc"")","bytearray(""abc"")","bytes(b""abc"")","b""abc""","bytes(""abc"")"
+medium,programming,Which function converts a sequence of bytes to a string,str(),decode(),encode(),bytes(),decode()
+medium,programming,How do you check if a key exists in a dictionary,key in dict,dict.has_key(key),dict.get(key),dict.contains(key),key in dict
+hard,programming,What keyword defines a function in Python,,,,,def
+hard,programming,What keyword defines a class in Python,,,,,class
+hard,programming,Which data type is immutable sequence of values,,,,,tuple
+hard,programming,Which data type stores key value pairs,,,,,dict
+hard,programming,Which keyword is used for exception handling,,,,,try
+hard,programming,Which keyword is used to create anonymous function,,,,,lambda
+hard,programming,Which keyword is used to inherit a class,,,,,super
+hard,programming,Which keyword is used to define generator output,,,,,yield
+hard,programming,What is the operator for integer division,,,,,//
+hard,programming,What symbol is used for comments,,,,,#
+hard,programming,Which function returns length of object,,,,,len
+hard,programming,Which function returns type of object,,,,,type
+hard,programming,Which method adds item to list end,,,,,append
+hard,programming,Which method removes last list item,,,,,pop
+hard,programming,Which built in function returns max value,,,,,max
+hard,programming,Which built in function returns min value,,,,,min
+hard,programming,Which keyword stops a loop,,,,,break
+hard,programming,Which keyword skips iteration,,,,,continue
+hard,programming,Which keyword does nothing in code,,,,,pass
+hard,programming,Which method converts string to uppercase,,,,,upper
+hard,programming,Which method converts string to lowercase,,,,,lower
+hard,programming,Which function converts string to int,,,,,int
+hard,programming,Which function converts string to float,,,,,float
+hard,programming,Which function converts value to string,,,,,str
+hard,programming,Which operator checks equality,,,,,==
+hard,programming,Which operator checks identity,,,,,is
+hard,programming,Which data structure uses hash table,,,,,dict
+hard,programming,Which error occurs when key not found in dict,,,,,KeyError
+hard,programming,Which keyword defines loop over sequence,,,,,for
+hard,programming,Which keyword used for condition,,,,,if
+hard,programming,Which keyword used for alternative condition,,,,,elif
+hard,programming,Which keyword used for multiple conditions,,,,,else
+hard,programming,Which built in function returns sum,,,,,sum
+hard,programming,Which function returns absolute value,,,,,abs
+hard,programming,Which function rounds numbers,,,,,round
+hard,programming,Which module handles math operations,,,,,math
+hard,programming,Which module handles random values,,,,,random
+hard,programming,Which keyword creates iterator manually,,,,,yield
+hard,programming,Which keyword used to raise errors,,,,,raise
+hard,programming,Which keyword used to import modules,,,,,import
+hard,programming,Which file extension is compiled Python,,,,,pyc
+hard,programming,Which file extension is source Python,,,,,py
+hard,programming,Which function evaluates expression string,,,,,eval
+hard,programming,Which keyword defines context manager,,,,,with
+hard,programming,Which keyword used in context manager cleanup,,,,,finally
+hard,programming,Which method splits string,,,,,split
+hard,programming,Which method joins strings,,,,,join
+hard,programming,Which method removes whitespace,,,,,strip
+hard,programming,Which function checks truth of all items,,,,,all
+hard,programming,Which function checks any truth,,,,,any
+hard,programming,Which keyword defines no value,,,,,None
+hard,programming,Which keyword used in loops,,,,,for
+hard,programming,Which data type is ordered and mutable,,,,,list
+hard,programming,Which data type is unordered set,,,,,set
+hard,programming,Which function returns ASCII value,,,,,ord
+hard,programming,Which function returns character from ASCII,,,,,chr
+hard,programming,Which operator raises power,,,,,**
+hard,programming,Which operator returns remainder,,,,,%
+hard,programming,Which built in function sorts data,,,,,sorted
+hard,programming,Which keyword defines global scope,,,,,global
+hard,programming,Which keyword defines local scope behavior,,,,,local
+hard,programming,Which keyword used for nonlocal scope,,,,,nonlocal
+hard,programming,Which method copies list,,,,,copy
+hard,programming,Which method clears list,,,,,clear
+hard,programming,Which method inserts item in list,,,,,insert
+hard,programming,Which function returns memory address identity,,,,,id
+hard,programming,Which keyword defines boolean True,,,,,TRUE
+hard,programming,Which keyword defines boolean False,,,,,FALSE
+hard,programming,Which keyword defines null value,,,,,None
+hard,programming,Which keyword is used to define a function scope variable globally,,,,,global
+hard,astronomy,What is the name of the galaxy that contains Earth,,,,,MilkyWay
+hard,astronomy,What force keeps planets in orbit,,,,,Gravity
+hard,astronomy,What is the nearest star to Earth,,,,,Sun
+hard,astronomy,What is the largest planet in the Solar System,,,,,Jupiter
+hard,astronomy,What is the smallest planet in the Solar System,,,,,Mercury
+hard,astronomy,What is the term for a star explosion,,,,,Supernova
+hard,astronomy,What is the final stage of a low-mass star called,,,,,WhiteDwarf
+hard,astronomy,What is the final stage of a high-mass star called,,,,,BlackHole
+hard,astronomy,What is the center of a galaxy called,,,,,Singularity
+hard,astronomy,What is the name of Earth’s natural satellite,,,,,Moon
+hard,astronomy,What is the term for a rocky object entering Earth’s atmosphere,,,,,Meteoroid
+hard,astronomy,What is a meteor that reaches Earth’s surface called,,,,,Meteorite
+hard,astronomy,What is the boundary of a black hole called,,,,,EventHorizon
+hard,astronomy,What is the term for bending of light by gravity,,,,,GravitationalLensing
+hard,astronomy,What is the closest galaxy to the Milky Way,,,,,Andromeda
+hard,astronomy,What is the name of our Solar System’s star,,,,,Sun
+hard,astronomy,What is the term for a system of billions of stars,,,,,Galaxy
+hard,astronomy,What is the study of stars and galaxies called,,,,,Astronomy
+hard,astronomy,What is the unit of distance used in space between stars,,,,,Parsec
+hard,astronomy,What is the speed of light measured in vacuum,,,,,299792km/s
+hard,astronomy,What is the name of the first human-made object in space,,,,,Sputnik
+hard,astronomy,What is the name of the first human on the Moon,,,,,Armstrong
+hard,astronomy,What is the term for dark object with gravity so strong light cannot escape,,,,,BlackHole
+hard,astronomy,What is the process that powers the Sun,,,,,Fusion
+hard,astronomy,What is the main gas in the Sun,,,,,Hydrogen
+hard,astronomy,What is the second most abundant element in the Sun,,,,,Helium
+hard,astronomy,What is the term for apparent shift of a star due to Earth’s motion,,,,,Parallax
+hard,astronomy,What is the name of the brightest star in the night sky,,,,,Sirius
+hard,astronomy,What is the closest planet to the Sun,,,,,Mercury
+hard,astronomy,What is the hottest planet in the Solar System,,,,,Venus
+hard,astronomy,What planet has the most moons,,,,,Saturn
+hard,astronomy,What planet is known as the Red Planet,,,,,Mars
+hard,astronomy,What planet has a giant storm called Great Red Spot,,,,,Jupiter
+hard,astronomy,What planet rotates on its side,,,,,Uranus
+hard,astronomy,What planet has rings made mostly of ice,,,,,Saturn
+hard,astronomy,What is the name of NASA’s space telescope launched in 1990,,,,,Hubble
+hard,astronomy,What is the term for expansion of the Universe,,,,,Expansion
+hard,astronomy,What is the theory explaining Universe origin,,,,,BigBang
+hard,astronomy,What is the term for invisible mass in space,,,,,DarkMatter
+hard,astronomy,What is the term for invisible energy causing universe expansion,,,,,DarkEnergy
+hard,astronomy,What is the closest black hole candidate to Earth,,,,,CygnusX1
+hard,astronomy,What is the term for group of stars forming a pattern,,,,,Constellation
+hard,astronomy,What is the largest moon of Saturn,,,,,Titan
+hard,astronomy,What is the largest moon of Jupiter,,,,,Ganymede
+hard,astronomy,What is the planet with highest density,,,,,Earth
+hard,astronomy,What is the planet with lowest density,,,,,Saturn
+hard,astronomy,What is the term for star brightness as seen from Earth,,,,,ApparentMagnitude
+hard,astronomy,What is the term for actual star brightness,,,,,AbsoluteMagnitude
+hard,astronomy,What is the layer of Sun visible during eclipse,,,,,Photosphere
+hard,astronomy,What is the Sun’s outer atmosphere called,,,,,Corona
+hard,astronomy,What is the term for planet outside Solar System,,,,,Exoplanet
+hard,astronomy,What is the term for path of a planet around Sun,,,,,Orbit
+hard,astronomy,What is the term for rotation of Earth on its axis,,,,,Rotation
+hard,astronomy,What causes seasons on Earth,,,,,Tilt
+hard,astronomy,What is the galaxy shape of Milky Way,,,,,Spiral
+hard,astronomy,What is the nearest dwarf planet,,,,,Pluto
+hard,astronomy,What is the largest dwarf planet,,,,,Eris
+hard,astronomy,What is the term for group of galaxies,,,,,Cluster
+hard,astronomy,What is the term for explosion of white dwarf star,,,,,Supernova
+hard,astronomy,What is the term for neutron star that emits beams,,,,,Pulsar
+hard,astronomy,What is the coldest known place in space,,,,,Vostok
+hard,astronomy,What is the hottest known star type,,,,,BlueGiant
+hard,astronomy,What is the most common element in the Universe,,,,,Hydrogen
+hard,astronomy,What is the second most common element in the Universe,,,,,Helium
+hard,astronomy,What is the term for radiation left from Big Bang,,,,,CosmicMicrowaveBackground
+hard,astronomy,What is the planet known for extreme greenhouse effect,,,,,Venus
+hard,astronomy,What is the planet with strongest winds,,,,,Neptune
+hard,astronomy,What is the planet closest in size to Earth,,,,,Venus
+hard,astronomy,What is the term for apparent backward motion of planets,,,,,RetrogradeMotion
+hard,astronomy,What is the unit used for measuring large cosmic distances,,,,,Parsec
