@@ -9,31 +9,46 @@ def choice_question(category_choices,level):
     random_choice_questions=filtered_question.sample(n=5)
     list_of_choice_questions=random_choice_questions.to_dict(orient="records")
     return list_of_choice_questions
-def ask_question(single_question):
+def ask_question(single_question,level):
     """this function going to display those random choice
     questions and their choice one by one,accept users answer compare
     it to the real answer and return true if it is correct or
     false if it is false"""
     print(single_question['question'])
-    for i in range(1,5):
-       if pd.notna(single_question[f'option {i}']):
-           print(single_question[f'option {i}'])
-    user_answer=input("enter your answer by word ")
-    correct_answer=single_question['answer'].strip().lower()
-    user_answer=user_answer.strip().lower()
-    if correct_answer==user_answer:
-        print("your answer is correct\n")
-        return True
+    if level=='medium':
+       i=1
+       question_dictionary={single_question[f'option {i}']:'A',single_question[f'option {i+1}']:'B',
+                                    single_question[f'option {i+2}']:'C',single_question[f'option {i+3}']:'D'}
+       for i in range(1,5):
+           print(f'{question_dictionary[f'{single_question[f'option {i}']}']}.{single_question[f'option {i}']}')
+       user_answer=input("Choose the correct answer by writing the letter of your choice ").strip().lower()
+       correct_answer=question_dictionary[f'{single_question['answer']}'].strip().lower()
+       if correct_answer==user_answer:
+           print("your answer is correct\n")
+           return True
+       else:
+           print(f'your answer is wrong the correct answer is {correct_answer.upper()}')
+           return False
     else:
-        print(f"wrong answer the answer is {correct_answer}\n")
-        return False
+        for i in range(1,5):
+            if pd.notna(single_question[f'option {i}']):
+                print(single_question[f'option {i}'])
+        user_answer=input("enter your answer by word ")
+        correct_answer=single_question['answer'].strip().lower()
+        user_answer=user_answer.strip().lower()
+        if correct_answer==user_answer:
+            print("your answer is correct\n")
+            return True
+        else:
+            print(f"wrong answer the answer is {correct_answer}\n")
+            return False
 def run_level(category,level):
     """this is the main function it loops through 5 question and call the functions
     update score"""
     score=0
     the_five_question=choice_question(category,level)
     for q in the_five_question:
-        result=ask_question(q)
+        result=ask_question(q,level)
         if result:
             score+=1
     return score
