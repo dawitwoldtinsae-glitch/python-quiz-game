@@ -75,7 +75,7 @@ def handle_level_results(category,level,score):
                 restarter()
     elif level=='medium':
         if score >=3:
-            asker = input("you smashed it.\n do you want to try next level 'yes' to try new category 'new' to stop anything ")
+            asker = input(f"you smashed it you got {score} out of 5.\n do you want to try next level 'yes' to try new category 'new' to stop anything ")
             asker = asker.strip().lower()
             if asker == 'yes':
                 result2=run_level(category, 'hard')
@@ -94,7 +94,7 @@ def handle_level_results(category,level,score):
                 restarter()
     elif level=='hard':
         if score >=4:
-            asker = input("you smashed it.\n do you want to  try new category 'new' to stop anything ")
+            asker = input(f"you smashed it you got {score} out of 5.\n do you want to try next level 'yes' to try new category 'new' to stop anything ")
             asker = asker.strip().lower()
             if asker=='new':
                 restarter()
