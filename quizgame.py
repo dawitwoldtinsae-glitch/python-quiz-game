@@ -133,7 +133,6 @@ while True:
        """this part is going to use for th astronomy part"""
        result3=run_level('programming','easy')
        handle_level_results('programming','easy',result3)
-       #this part going to be for the random choice and call the function of asking question then when it finished it going to break
        break
     else:
         print("invalid input!!\n")
